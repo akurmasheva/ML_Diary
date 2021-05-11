@@ -3,6 +3,7 @@ This work contains two main parts: image analysis and text analysis. The main ai
 
 ## Parse and classify your binary table
 
-Input: handwritten tracker with binary cells - filled and empty
-
-Output: table with results for each row.
+```
+# Input: handwritten tracker with binary cells - filled and empty
+# Output: table with results for each row.
+```
