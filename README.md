@@ -4,6 +4,13 @@ This work contains two main parts: image analysis and text analysis. The main ai
 ## Parse and classify your binary table
 
 ```
-# Input: handwritten tracker with binary cells - filled and empty
-# Output: table with results for each row.
+# Input: handwritten tracker with binary cells: filled and empty.
+# Output: classification of each cell as FILLED or EMPTY. 
+```
+
+## Parse and identify how much your typed text is positive, negative or neutral (Russian language only!)
+
+```
+# Input: typed text. 
+# Output: percentage of positiveness, negativeness and neutrality. 
 ```
