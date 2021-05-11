@@ -7,6 +7,8 @@ This work contains two main parts: image analysis and text analysis. The main ai
 # Input: handwritten tracker with binary cells: filled and empty.
 # Output: classification of each cell as FILLED or EMPTY. 
 ```
+For this use file: ```image_analysis.ipynb```
+
 
 ## Parse and identify how much your typed text is positive, negative or neutral (Russian language only!)
 
@@ -14,3 +16,4 @@ This work contains two main parts: image analysis and text analysis. The main ai
 # Input: typed text. 
 # Output: percentage of positiveness, negativeness and neutrality. 
 ```
+For this use file: ```text_semantic_analysis.ipynb```
